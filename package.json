@@ -40,7 +40,7 @@
         "linkify-it": "2.0.3",
         "mailsplit": "4.0.2",
         "mobileconfig": "2.1.0",
-        "mongo-cursor-pagination": "5.0.0",
+        "mongo-cursor-pagination": "7.0.1",
         "mongodb": "2.2.31",
         "node-redis-scripty": "0.0.5",
         "nodemailer": "4.1.0",
