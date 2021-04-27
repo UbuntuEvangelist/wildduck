@@ -48,7 +48,7 @@
         "openpgp": "2.5.10",
         "qrcode": "0.9.0",
         "redfour": "1.0.2",
-        "redis": "2.8.0",
+        "redis": "3.1.1",
         "restify": "6.0.0",
         "seq-index": "1.1.0",
         "smtp-server": "3.1.0",
